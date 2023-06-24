@@ -8,3 +8,6 @@
 > <img width="20px" src="https://github.com/MrBedrockpy/MrBEdrockpy/blob/main/assets/python.png"> Python
 > <img width="20px" src="https://github.com/MrBedrockpy/MrBEdrockpy/blob/main/assets/java.png"> Java
 > <img width="20px" src="https://github.com/MrBedrockpy/MrBEdrockpy/blob/main/assets/minecraft.png"> Minecraft API
+> <img width="20px" src="https://github.com/MrBedrockpy/MrBEdrockpy/blob/main/assets/html.png"> HTML
+> <img width="20px" src="https://github.com/MrBedrockpy/MrBEdrockpy/blob/main/assets/css.png"> CSS
+> <img width="20px" src="https://github.com/MrBedrockpy/MrBEdrockpy/blob/main/assets/bootstrap.png"> Bootstrap
